@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,7&height=300&section=header&text=Welcome&animation=fadeIn&desc=SangHeon's%20GitHub&descAlign=60&fontSize=80)
 
 <h1>Hi! I'm Front-end Developer. 👋</h1>
-<p>Welcom to my page!<br />
+<p>Welcome to my page!<br />
 I'm SangHeon, Front-end developer from 🏖Jeju, Korea</p>
 <br />
 
